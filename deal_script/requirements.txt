@@ -1,0 +1,7 @@
+functions-framework==3.3.0
+requests==2.31.0
+google-cloud-bigquery==3.11.1
+pandas==2.0.2
+pyarrow==12.0.1
+pandas-gbq
+pytz
